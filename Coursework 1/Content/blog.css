@@ -1,0 +1,189 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+p, li{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div.blog-header-city{
+  background-image: url(Images/Man\ city\ badge.png);
+  background-size: cover;
+  background-position: center;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #75c4e4;
+}
+div.blog-header-arsenal{
+  background-image: url(Images/Arsenal\ badge.png);
+  background-size: cover;
+  background-position: center;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(201, 25, 25);
+}
+div.blog-header-villa{
+  background-image: url(Images/Aston\ Villa\ badge.png);
+  background-size: cover;
+  background-position: center;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #8f0040;
+}
+div.blog-header-liverpool{
+  background-image: url(Images/Liverpool\ badge2.png);
+  background-size: cover;
+  background-position: center;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #d10012;
+}
+div.blog-header-chelsea{
+  background-image: url(Images/chelsea\ badge.png);
+  background-size: cover;
+  background-position: center;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #000d9d;
+}
+div.blog-header-manu{
+  background-image: url(Images/Man\ u\ badge.png);
+  background-size: cover;
+  background-position: center;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #da0404;
+}
+div.blog-header-bourne{
+  background-image: url(Images/Bournemouth\ badge.png);
+  background-size: cover;
+  background-position: center;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(206,12,19,255);
+}
+div.blog-header-brent{
+  background-image: url(Images/Brentford\ badge.png);
+  background-size: cover;
+  background-position: center;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(228,1,11,255);
+}
+div.blog-header-brighton{
+  background-image: url(Images/Brighton\ badge.png);
+  background-size: cover;
+  background-position: center;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(0,93,172,255);
+}
+div.blog-header-everton{
+  background-image: url(Images/everton\ badge.png);
+  background-size: cover;
+  background-position: center;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #00009f;
+}
+div.blog-header-fulham{
+  background-image: url(Images/Fulham\ badge.png);
+  background-size: cover;
+  background-position: center;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #616161;
+}
+div.blog-header-ipswich{
+  background-image: url(Images/Ipswich\ badge.png);
+  background-size: cover;
+  background-position: center;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #3764a4;
+}
+div.club-card-img img{
+  width: 200px; 
+  height: 265px;
+}
+a.Return{
+  text-decoration: none;
+  color: black;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+a.Return:hover{
+  text-shadow: 0 0 10px #006b96;
+  transform: scale(1.5);
+}
+div.club-column{
+  width: 87%;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+hr.line{
+  width: 70%;
+}
+div.fixture-row-1{
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .15);
+  padding: 20px;
+  margin-top: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+div.card-column1 img{
+  width: 100%;
+}
+div.card-column1{
+  float: left;
+  width: 48%;
+}
+div.card-column2{
+  float: inline-end;
+  width: 48%;
+}
